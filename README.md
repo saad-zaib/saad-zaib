@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saad</h1>
 <h3 align="center">I'm Passionate about crafting clean, efficient code | Enthusiastic about solving real-world problems with technology | Open-source enthusiast | Always learning, always growing | Let's build something amazing together! 💻✨</h3>
+<img align="right" alt="Coding" width="400" src"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hkYTFybndzcWZlZzMwcXlvZHZ5ODk0bDBra2VoMnA0ZzUyb3kxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" >
 
 - 🌱 I’m currently learning **how to use artifical intelligence in cyber security**
 

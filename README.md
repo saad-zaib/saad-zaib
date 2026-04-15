@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">I'm a Security Engineer and part-time red teamer who loves to break things and then build them 💻✨</h3>
+<h3 align="center">I'm a Security Engineer and researcher i built security products 💻✨</h3>
 
-- 🌱 I’m currently learning **DevSecOps**
+- 🌱 I’m currently working on **Agentic AI Building a CTF platform that will genereate CTF with just Prompts**
 
-- 📝 I occasionally write articles on [https://medium.com/@saad_sec](https://medium.com/@saad_sec)
-
-- 💬 Ask me about **Cyber Security**
+- 📝 I occasionally post on X [https://x.com/imsaadzaib]
 
 - 📫 How to reach me **iamsaadkhattak@gmail.com**
